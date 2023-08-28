@@ -9,3 +9,7 @@
 ## Materiales del proyecto
 
 ## Contenido del curso
+
+## Metodología del proyecto
+
+## Integrantes
