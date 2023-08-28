@@ -1,2 +1,2 @@
-# FunBio (Grupo 7)
+# Fundamentos de Biodiseño (Grupo 7)
 Tema: Open Hardware
