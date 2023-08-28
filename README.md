@@ -1,2 +1,2 @@
-# FunBio (Grupo 7)
+## FunBio (Grupo 7)
 
