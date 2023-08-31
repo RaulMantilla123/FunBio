@@ -5,7 +5,9 @@
 - ¿ Qué es Open Hardware?
 - Contenido del curso
 - Materiales del proyecto
-- Metodología del 
+- Temática del proyecto
+- Problemática del proyecto
+- Integrantes
 ## ¿Qué es Open Hardware?
 - Se conoce como aquellos dispositivos de hardware cuyas especificaciones y esquemas son de acceso público, ya sea a través de algún tipo de pago (menor a la original) o gratuito.
 
@@ -14,7 +16,12 @@
 ## Materiales del proyecto
 
 ## Temática del proyecto
+- Con el proyecto ya seleccionado, simplificaremos el termociclador para que sea apto para todo público bajándole el costo y quitándole algunos instrumentos para que tenga un uso más simple.
 
 ## Problemática del proyecto
 
 ## Integrantes
+-
+-
+-
+-
