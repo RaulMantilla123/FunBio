@@ -18,7 +18,7 @@
 - Unidad 3: Desarrollar la solución
 - Unidad 4: Comunicar los resultados
 ## Proyecto 
-- T
+- Nuestro proyecto será un termociclador que tiene como función automatizar los ciclos de temperatura necesarios para realizar una reacción en cadena de la polimerasa (PCR) de amplificación del ADN.
 ## Materiales del proyecto
 
 ## Temática del proyecto
