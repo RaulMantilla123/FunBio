@@ -22,7 +22,7 @@
 ## Problemática del proyecto
 
 ## Integrantes
--
+- Alessandra de Fátima Salazar Cuya
 -
 -
 -
