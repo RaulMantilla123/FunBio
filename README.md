@@ -26,6 +26,7 @@
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ## Problemática del proyecto
 - No se logran incrementos por segundo de cambio de temperatura
 - Mayormente los equipos orientados a la salud tienen precios altos, por tanto, poco acessibles.
