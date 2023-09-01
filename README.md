@@ -26,10 +26,10 @@
 
 ## Integrantes
 - Alessandra de Fátima Salazar Cuya
--
--
--
-## Doncentes del curso
--
+- Raúl Eduardo Mantilla Cruzado
+- Johnny Fabián Cabanillas Bosmediano
+- Mauricio Gabriel Egoavil Vera
+## Docentes del curso
+- Paulo Vela
 -
 -
