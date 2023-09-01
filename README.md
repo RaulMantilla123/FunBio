@@ -23,6 +23,8 @@
 - Con el proyecto ya seleccionado, simplificaremos el termociclador para que sea apto para todo público bajándole el costo y quitándole algunos instrumentos para que tenga un uso más simple.
 
 ## Problemática del proyecto
+- No se logran incrementos por segundo de cambio de temperatura
+- 
 
 ## Integrantes
 - Alessandra de Fátima Salazar Cuya
