@@ -22,9 +22,9 @@
 ## Temática del proyecto
 - Con el proyecto ya seleccionado, simplificaremos el termociclador para que sea apto para todo público bajándole el costo y quitándole algunos instrumentos para que tenga un uso más simple.
 ## Estado del arte
-| First Header  | Second Header |
+| Productos | Descripción |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Biolab UPV  | Se trata de un laboratorio que busca obtener un coste muy bajo en comparación a los laboratorios profesionales, a cambio de que el usuario tenga que comprar los componentes e instalarlos. También es necesario modificar el código y conectarlo a un ordenador cada vez que se deseen cambiar los ajustes de los experimentos (temperatura, tiempo, ...). Su precio total aproximado total es muy inferior a los laboratorios profesionales, que superan los de 10.000 €. Tiene varios componentes, entre ellos electroporador, colorímetro, centrífuga, entre otros. Contiene una fuente de alimentación potente para sus componentes (12V 15A) |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 ## Problemática del proyecto
