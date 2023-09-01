@@ -2,7 +2,7 @@
 - Repositorio del Grupo 7 del curso de Fundamentos de Biodiseño
 - Tema: Open Hardware
 ## Contenido del repositorio 
-- ¿ Qué es Open Hardware?
+- ¿Qué es Open Hardware?
 - Contenido del curso
 - Materiales del proyecto
 - Temática del proyecto
