@@ -13,7 +13,10 @@
 - Se conoce como aquellos dispositivos de hardware cuyas especificaciones y esquemas son de acceso público, ya sea a través de algún tipo de pago (menor a la original) o gratuito.
 
 ## Contenido del curso
-
+- Unidad 1
+- Unidad 2
+- Unidad 3
+- Unidad 4 
 ## Materiales del proyecto
 
 ## Temática del proyecto
