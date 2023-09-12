@@ -28,6 +28,7 @@
 | ------------- | ------------- |
 | Biolab UPV  | Se trata de un laboratorio que busca obtener un coste muy bajo en comparación a los laboratorios profesionales, a cambio de que el usuario tenga que comprar los componentes e instalarlos. También es necesario modificar el código y conectarlo a un ordenador cada vez que se deseen cambiar los ajustes de los experimentos (temperatura, tiempo, ...). Su precio total aproximado total es muy inferior a los laboratorios profesionales, que superan los de 10.000 €. Tiene varios componentes, entre ellos electroporador, colorímetro, centrífuga, entre otros. Contiene una fuente de alimentación potente para sus componentes (12V 15A) |
 | Amino  | Son laboratorios portátiles se centran en experimentos sencillos con resultados muy vistosos e interactivos, por lo que usualmente está orientado a la docencia en colegios e institutos, tiene algunos materiales básicos, construirlo no es complicado ni costoso.
+| BTX™ Sistema de electroporación ECM™| Transformación de bacterias, levaduras, microorganismos; transfección de algunos tipos de células de mamíferos mediante un campo eléctrico para perturbar sus membranas.
 ## Problemática del proyecto
 - No se logran incrementos por segundo de cambio de temperatura
 - Mayormente los equipos orientados a la salud tienen precios altos, por tanto, poco acessibles.
