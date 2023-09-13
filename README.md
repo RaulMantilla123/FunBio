@@ -43,8 +43,11 @@
 | Productos | Descripción |
 | ------------- | ------------- |
 | | |
-## Lista de requirimientos 
+## Lista de requirimientos
 ### Funcionales: ¿Qué debe hacer nuestro proyecto?
+- Generar un campo eléctrico homogéneo
+- Operar de manera continua
+- Capacidad de alterar ante complicaciones|
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 ## Propuesta de solución
 ## Bibliografía
