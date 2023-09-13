@@ -55,6 +55,8 @@
 - Operar de manera continua
 - Capacidad de alterar ante complicaciones
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
+- Tener un costo asequible
+- No ocupa mucho espacio
 ## Propuesta de solución
 ## Bibliografía
 - Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
