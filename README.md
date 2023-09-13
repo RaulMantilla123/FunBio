@@ -31,8 +31,6 @@
 ## Problemática del proyecto
 - No se logran incrementos por segundo de cambio de temperatura
 - Mayormente los equipos orientados a la salud tienen precios altos, por tanto, poco acessibles.
-## Materiales del proyecto
-
 ## Temática del proyecto
 - Con el proyecto ya seleccionado, simplificaremos el termociclador para que sea apto para todo público bajándole el costo y quitándole algunos instrumentos para que tenga un uso más simple.
 ## Estado del arte
