@@ -28,6 +28,9 @@
 - Unidad 4: Comunicar los resultados
 ## Proyecto 
 - Nuestro proyecto será un termociclador que tiene como función automatizar los ciclos de temperatura necesarios para realizar una reacción en cadena de la polimerasa (PCR) de amplificación del ADN.
+## Problemática del proyecto
+- No se logran incrementos por segundo de cambio de temperatura
+- Mayormente los equipos orientados a la salud tienen precios altos, por tanto, poco acessibles.
 ## Materiales del proyecto
 
 ## Temática del proyecto
@@ -39,10 +42,6 @@
 | Amino  | Son laboratorios portátiles se centran en experimentos sencillos con resultados muy vistosos e interactivos, por lo que usualmente está orientado a la docencia en colegios e institutos, tiene algunos materiales básicos, construirlo no es complicado ni costoso.
 | BTX™ Sistema de electroporación ECM™| Electroporador que transforma bacterias, levaduras, microorganismos como transfección de algunos tipos de células de mamíferos mediante un campo eléctrico perturbando sus membranas, incluye una cúpula de seguridad para cubetas. Dimensiones: 33 x 21,6 x 28,6 cm Peso: 9.79000kg Fabricante: Fisher cientific
 | Gene Pulser Xcell Electroporation Systems | Sistema de electroporación que permite la transfección de cualquier tipo de células incluyendo células T, hasta bacterias y hongos. Compuesto por una unidad principal, dos módulos accesorios, el extensor de capacitancia (módulo CE) y el controlador de pulsos (módulo PC), y una cámara de cubeta ShockPod. Dimensiones: 31 x 30 x 14 cm Peso: 6.6 kg Fabricante: Bio-Rad
-
-## Problemática del proyecto
-- No se logran incrementos por segundo de cambio de temperatura
-- Mayormente los equipos orientados a la salud tienen precios altos, por tanto, poco acessibles.
   
 ## Bibliografía
 - Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
