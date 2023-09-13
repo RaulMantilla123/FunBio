@@ -47,7 +47,7 @@
 ### Funcionales: ¿Qué debe hacer nuestro proyecto?
 - Generar un campo eléctrico homogéneo
 - Operar de manera continua
-- Capacidad de alterar ante complicaciones|
+- Capacidad de alterar ante complicaciones
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 ## Propuesta de solución
 ## Bibliografía
