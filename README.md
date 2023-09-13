@@ -15,7 +15,6 @@
 - ¿Qué es Open Hardware?
 - Contenido del curso
 - Materiales del proyecto
-- Temática del proyecto
 - Problemática del proyecto
 - Integrantes
 - Docentes del curso
@@ -30,8 +29,6 @@
 - Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes.
 ## Problemática del proyecto
 - No se vende en Perú, esto causa que sea costoso exportarlo y, además,  no se encuentran respuestos.
-## Temática del proyecto
-- Con el proyecto ya seleccionado, 
 ## Estado del arte
 ### Productos comerciales
 | Productos | Descripción | Imagen | 
