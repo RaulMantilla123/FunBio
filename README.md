@@ -38,7 +38,9 @@
 | | |
 | BTX™ Sistema de electroporación ECM™| Electroporador que transforma bacterias, levaduras, microorganismos como transfección de algunos tipos de células de mamíferos mediante un campo eléctrico perturbando sus membranas, incluye una cúpula de seguridad para cubetas. Dimensiones: 33 x 21,6 x 28,6 cm Peso: 9.79000kg Fabricante: Fisher cientific
 | Gene Pulser Xcell Electroporation Systems | Sistema de electroporación que permite la transfección de cualquier tipo de células incluyendo células T, hasta bacterias y hongos. Compuesto por una unidad principal, dos módulos accesorios, el extensor de capacitancia (módulo CE) y el controlador de pulsos (módulo PC), y una cámara de cubeta ShockPod. Dimensiones: 31 x 30 x 14 cm Peso: 6.6 kg Fabricante: Bio-Rad
-  
+## Lista de requirimientos 
+### Funcionales: ¿Qué debe hacer nuestro proyecto?
+
 ## Bibliografía
 - Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
 - Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
