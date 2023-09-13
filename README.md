@@ -27,7 +27,7 @@
 - Unidad 3: Desarrollar la solución
 - Unidad 4: Comunicar los resultados
 ## Proyecto 
-- Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de 
+- Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes.
 ## Problemática del proyecto
 - No se logran incrementos por segundo de cambio de temperatura
 - Mayormente los equipos orientados a la salud tienen precios altos, por tanto, poco acessibles.
