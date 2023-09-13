@@ -34,10 +34,10 @@
 - Con el proyecto ya seleccionado, 
 ## Estado del arte
 ### Productos comerciales
-| Productos | Descripción |
-| ------------- | ------------- |
+| Productos | Descripción | Imagen | 
+| ------------- | ------------- |------------- |
 | | |
-| BTX™ Sistema de electroporación ECM™| Electroporador que transforma bacterias, levaduras, microorganismos como transfección de algunos tipos de células de mamíferos mediante un campo eléctrico perturbando sus membranas, incluye una cúpula de seguridad para cubetas. Dimensiones: 33 x 21,6 x 28,6 cm Peso: 9.79000kg Fabricante: Fisher cientific
+| BTX™ Sistema de electroporación ECM™| Electroporador que transforma bacterias, levaduras, microorganismos como transfección de algunos tipos de células de mamíferos mediante un campo eléctrico perturbando sus membranas, incluye una cúpula de seguridad para cubetas. Dimensiones: 33 x 21,6 x 28,6 cm Peso: 9.79000kg Fabricante: Fisher cientific | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/93162ae9-6e88-479e-ab6a-fddfefbd09cf) |
 | Gene Pulser Xcell Electroporation Systems | Sistema de electroporación que permite la transfección de cualquier tipo de células incluyendo células T, hasta bacterias y hongos. Compuesto por una unidad principal, dos módulos accesorios, el extensor de capacitancia (módulo CE) y el controlador de pulsos (módulo PC), y una cámara de cubeta ShockPod. Dimensiones: 31 x 30 x 14 cm Peso: 6.6 kg Fabricante: Bio-Rad
 ### Patentes 
 | Productos | Descripción | Imagen |
