@@ -12,12 +12,14 @@
 - Umbert Lewis De la Cruz Rodríguez
 - Keren Antonieta Espinoza Huertas
 ## Contenido del repositorio 
-- ¿Qué es Open Hardware?
-- Contenido del curso
-- Materiales del proyecto
-- Problemática del proyecto
 - Integrantes
 - Docentes del curso
+- ¿Qué es Open Hardware?
+- Contenido del curso
+- Problemática del proyecto
+- Estado del Arte
+- Lista de Requerimineto
+- Propuesta de solución
 ## ¿Qué es Open Hardware?
 - Se conoce como aquellos dispositivos de hardware cuyas especificaciones y esquemas son de acceso público, ya sea a través de algún tipo de pago (menor a la original) o gratuito.
 ## Contenido del curso
