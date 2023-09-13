@@ -53,3 +53,5 @@
 ## Bibliografía
 - Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
 - Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
+- BTX & Trade; Sistema de Electroporación ECM & Trade; 630 completo, con cúpula de seguridad - Electroporadores electroporadores.
+- Gene pulser xcell electroporation systems. (s/f). Bio-Rad Laboratories. 
