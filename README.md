@@ -40,9 +40,12 @@
 | BTX™ Sistema de electroporación ECM™| Electroporador que transforma bacterias, levaduras, microorganismos como transfección de algunos tipos de células de mamíferos mediante un campo eléctrico perturbando sus membranas, incluye una cúpula de seguridad para cubetas. Dimensiones: 33 x 21,6 x 28,6 cm Peso: 9.79000kg Fabricante: Fisher cientific
 | Gene Pulser Xcell Electroporation Systems | Sistema de electroporación que permite la transfección de cualquier tipo de células incluyendo células T, hasta bacterias y hongos. Compuesto por una unidad principal, dos módulos accesorios, el extensor de capacitancia (módulo CE) y el controlador de pulsos (módulo PC), y una cámara de cubeta ShockPod. Dimensiones: 31 x 30 x 14 cm Peso: 6.6 kg Fabricante: Bio-Rad
 ### Patentes 
-| Productos | Descripción |
-| ------------- | ------------- |
-| | |
+| Productos | Descripción | Imagen |
+| ------------- | ------------- | ------------- |
+| WO2005116203A2 - Método y aparato para la transformación bacteriana por electroporación con formas de onda que incorpora RF pulsada entre 3 y 125 mhz| Un método de electroporación incluye colocar una mezcla de suspensión bacteriana y transformar el ADN en una cubeta de electroporación. La muestra resultante se somete a través de una resistencia limitadora de corriente a una forma de onda compleja que incluye una ráfaga de corriente de radiofrecuencia de alto voltaje, que en algunas realizaciones se superpone a un pulso de CC bifásico de alto voltaje. La forma de onda total tiene al menos una porción inicial mayor que once mil voltios por centímetro de separación entre electrodos. En algunas realizaciones, la forma de onda en una porción posterior se reduce a entre diez y treinta por ciento de la magnitud de la porción inicial. En una realización, las bacterias transformadas se seleccionan mediante cultivo en medio selectivo. La corriente de radiofrecuencia de alto voltaje está entre 3 y 125 MHz, y en una realización es de 24 MHz. 
+País de procedencia: Estados Unidos
+Año de la publicación: 2005 | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/901ee09e-f462-4d23-9631-f893a30f5ea3) |
+
 ## Lista de requirimientos
 ### Funcionales: ¿Qué debe hacer nuestro proyecto?
 - Generar un campo eléctrico homogéneo
