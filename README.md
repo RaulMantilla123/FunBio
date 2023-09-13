@@ -29,10 +29,9 @@
 ## Proyecto 
 - Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes.
 ## Problemática del proyecto
-- No se logran incrementos por segundo de cambio de temperatura
-- Mayormente los equipos orientados a la salud tienen precios altos, por tanto, poco acessibles.
+- No se vende en Perú, esto causa que sea costoso exportarlo y, además,  no se encuentran respuestos.
 ## Temática del proyecto
-- Con el proyecto ya seleccionado, simplificaremos el termociclador para que sea apto para todo público bajándole el costo y quitándole algunos instrumentos para que tenga un uso más simple.
+- Con el proyecto ya seleccionado, 
 ## Estado del arte
 | Productos | Descripción |
 | ------------- | ------------- |
