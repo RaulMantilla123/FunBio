@@ -32,7 +32,7 @@
 ## Proyecto 
 - Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes.
 ## Problemática del proyecto
-- No se enseña en algunas instituciones educativas
+- 
 ## Estado del arte
 ### Productos comerciales
 | Productos | Descripción | Imagen | 
