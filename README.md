@@ -11,6 +11,8 @@
 - Paulo Camilo Vela Antón
 - Umbert Lewis De la Cruz Rodríguez
 - Keren Antonieta Espinoza Huertas
+- Renzo Chan
+- Juan Zuñiga
 ## Contenido del repositorio 
 - Integrantes
 - Docentes del curso
@@ -30,7 +32,7 @@
 ## Proyecto 
 - Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes.
 ## Problemática del proyecto
-- No se vende en Perú, esto causa que sea costoso exportarlo y, además,  no se encuentran respuestos.
+- No se enseña en algunas instituciones educativas
 ## Estado del arte
 ### Productos comerciales
 | Productos | Descripción | Imagen | 
