@@ -71,6 +71,7 @@ Elaborar una cámara de electroporación usando laminas de cobre para conducir e
 ## Esquema de funciones
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/1db219f6-0de3-4ddb-9622-e1681de317f7)
 ## Matriz morfológica
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/761eddcd-f40f-4245-970c-df5edf2be1b4)
 ## Tabla de valoración
 ## Conclusión
 ## Bibliografía
