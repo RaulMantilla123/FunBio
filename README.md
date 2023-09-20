@@ -1,4 +1,4 @@
-# FunBio (Grupo 7)
+ # FunBio (Grupo 7)
 - Repositorio del Grupo 7 del curso de Fundamentos de Biodiseño
 - Tema: Open Hardware
   
@@ -49,8 +49,8 @@
 | ------------- | ------------- |------------- |
 | | |
 | BTX™ Sistema de electroporación ECM™| Electroporador que transforma bacterias, levaduras, microorganismos como transfección de algunos tipos de células de mamíferos mediante un campo eléctrico perturbando sus membranas, incluye una cúpula de seguridad para cubetas. Dimensiones: 33 x 21,6 x 28,6 cm. Peso: 9.79kg. Fabricante: Fisher cientific. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/93162ae9-6e88-479e-ab6a-fddfefbd09cf) |
-| Gene Pulser Xcell Electroporation Systems | Sistema de electroporación que permite la transfección de cualquier tipo de células incluyendo células T, hasta bacterias y hongos. Compuesto por una unidad principal, dos módulos accesorios, el extensor de capacitancia (módulo CE) y el controlador de pulsos (módulo PC), y una cámara de cubeta ShockPod. Dimensiones: 31 x 30 x 14 cm Peso: 6.6 kg Fabricante: Bio-Rad. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/e6a4eaeb-e546-4a2b-b1da-c9f1eed1c5d9) |
-| Invitrogen™ Neon™ NxT Electroporation System | El sistema de electroporación Neon NxT es una plataforma de electroporación de próxima generación que aprovecha la tecnología de electroporación Neon única y confiable, que aumenta la eficiencia de la transfección y la viabilidad celular. Peso: 5.68kg. Fabricante: Invitrogen™ NEON1. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/228bdaca-d946-42b7-8012-7d9c1fab72c3) |
+| Gene Pulser Xcell Electroporation Systems | Sistema de electroporación que permite la transfección de cualquier tipo de células incluyendo células T, hasta bacterias y hongos. Compuesto por una unidad principal, dos módulos accesorios, el extensor de capacitancia (módulo CE) y el controlador de pulsos (módulo PC), y una cámara de cubeta ShockPod. Dimensiones: 31 x 30 x 14 cm Peso: 6.6 kg Fabricante: Bio-Rad. Precio:11.835 euros. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/e6a4eaeb-e546-4a2b-b1da-c9f1eed1c5d9) |
+| Invitrogen™ Neon™ NxT Electroporation System | El sistema de electroporación Neon NxT es una plataforma de electroporación de próxima generación que aprovecha la tecnología de electroporación Neon única y confiable, que aumenta la eficiencia de la transfección y la viabilidad celular. Peso: 5.68kg. Fabricante: Invitrogen™ NEON1. Precio: 9.764 dólares. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/228bdaca-d946-42b7-8012-7d9c1fab72c3) |
 
 ### Patentes 
 | Productos | Descripción | Imagen |
