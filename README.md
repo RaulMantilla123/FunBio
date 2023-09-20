@@ -64,7 +64,9 @@
 ## Propuesta de solución
 Elaborar una cámara de electroporación usando laminas de cobre para conducir el voltaje, creando así un campo electrico homogeneo que sea lo suficientemente capaz de perturbar su membrana. 
 ## Caja Negra 
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/c823d1b5-12ce-4ab9-86f1-8e0589a28a59)
 ## Esquema de funciones
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/1db219f6-0de3-4ddb-9622-e1681de317f7)
 ## Matriz morfológica
 ## Tabla de valoración
 ## Bibliografía
