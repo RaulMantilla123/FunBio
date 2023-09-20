@@ -32,10 +32,15 @@
 ## Proyecto
 - Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes, las cuales son bacterias diseñadas que tienen membranas celulares altamente permeables para la absorción eficiente de ADN extraño. La electroporación implica la aplicación de pulsos eléctricos a través de la membrana bacteriana, lo que crea poros y permite que el material genético penetre en la membrana.
 # Análisis del Caso
-## 1.Contexto Social
-La electroporación es una técnica que se utiliza para aumentar la permeabilidad de la membrana celular a iones y moléculas mediante pulsos cortos de altos campos eléctricos. Avances recientes han mostrado aplicaciones terapéuticas de la técnica en el tratamiento clínico contra el cáncer. Incluso la electroporación ha sido utilizada en la estética para mejor la piel facial y corporal.
-Existen 2 tipos de electroporación, la electroporación reversible y la irreversible:
-### 1.1. Electroporación reversible  
+## 1. Contexto Social 
+## 2. Contexto Clínico
+- La electroporación es una técnica que se utiliza para aumentar la permeabilidad de la membrana celular a iones y moléculas mediante pulsos cortos de altos campos eléctricos. Avances recientes han mostrado aplicaciones terapéuticas de la técnica en el tratamiento clínico contra el cáncer. Incluso la electroporación ha sido utilizada en la estética para mejor la piel facial y corporal.
+- Existen 2 tipos de electroporación, la electroporación reversible y la irreversible:
+### 1.1. Electroporación reversible 
+- La electroporación reversible permite introducir en las células moléculas que normalmente no podrían atravesar la membrana celular por sus propiedades (hidrosolubilidad, grandes dimensiones) y facilitar sus funciones. Las aplicaciones clínicas de la electroporación reversible incluyen: Electroquimioterapia, Electroescleroterapia, Electrotransferencia genética.
+### 1.2. Electroporación irreversible 
+- Actúa por medio de la emisión de numerosos impulsos eléctricos de alta tensión que crean nanoporos permanentes en la membrana celular y alteran la homeostasis. La interrupción de la homeostasis celular pone en marcha un proceso apoptósico que conlleva la muerte de la célula. Esta modalidad no prevé la administración de ningún fármaco quimioterapéutico, por lo que los efectos son exclusivamente físicos. Se utiliza principalmente en ámbito oncológico para la ablación de órganos profundos (hígado, páncreas).También ha empezado a utilizarse hace poco para el tratamiento de la fibrilación auricular en estudios clínicos.
+
 ## Problemática del proyecto
 - 
 ## Estado del arte
