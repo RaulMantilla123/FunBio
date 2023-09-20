@@ -78,4 +78,6 @@ Elaborar una cámara de electroporación usando laminas de cobre para conducir e
 8. (S/f). Fishersci.es. Recuperado el 13 de septiembre de 2023, de https://www.fishersci.es/shop/products/ecm-630-exponential-decay-wave-electroporator/15848471
 9. Electroporador, Eppendorf Eporator®. (s/f). VWR. Recuperado el 13 de septiembre de 2023, de https://es.vwr.com/store/product/7412315/electroporador-eppendorf-eporator
 10. 0brand. (s/f). ¿Qué es la electroporación? Igeamedical.com. Recuperado el 20 de septiembre de 2023, de https://www.igeamedical.com/es/electroquimioterapia/electroporacion?fbclid=IwAR1W8pThWAYJyMJx7eyIakBdoaC49hG5cOlfqHyrRI5QddlA2Kba60pEgVc
+11. Masquelier, D. (2018, 22 enero). US20190225928A1 - Automated cell processing methods, modules, instruments, and systems comprising filtration devices - Google Patents. https://patents.google.com/patent/US20190225928A1/en?q=(Automated+cell+processing+methods%2c+modules%2c+instruments%2c+and+systems+filtration+devices)&oq=Automated+cell+processing+methods%2c+modules%2c+instruments%2c+and+systems+comprising+filtration+devices
+
 
