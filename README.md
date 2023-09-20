@@ -71,8 +71,9 @@ Elaborar una cámara de electroporación usando laminas de cobre para conducir e
 ## Esquema de funciones
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/1db219f6-0de3-4ddb-9622-e1681de317f7)
 ## Matriz morfológica
-![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/761eddcd-f40f-4245-970c-df5edf2be1b4)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/c3bbb953-cdd0-4451-84d0-7e32122948f1)
 ## Tabla de valoración
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/2b9b4d8f-eb6c-4679-a9ae-90721d8a040c)
 ## Conclusión
 ## Bibliografía
 1. Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
