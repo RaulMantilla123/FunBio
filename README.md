@@ -30,7 +30,7 @@
 - Unidad 3: Desarrollar la solución
 - Unidad 4: Comunicar los resultados
 ## Proyecto 
-- Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes.
+- Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes. La electroporación es un fenómeno físico que determina la permeabilización de las membranas celulares a través de la aplicación de impulsos eléctricos.
 ## Análisis del Caso
 # 1.Contexto Social 
 Existen diferentes usos para los electroporadores. En
