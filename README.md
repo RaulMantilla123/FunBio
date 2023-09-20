@@ -23,6 +23,8 @@
 - Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes, las cuales son bacterias diseñadas que tienen membranas celulares altamente permeables para la absorción eficiente de ADN extraño. 
 # Análisis del Caso
 ## 1. Contexto Social 
+- El electroporador de bacterias fue un avance en las investigaciones científicas debido a que permitió manipular y estudiar el material genético de las bacterias. Esto llevó a un importante avance en la biología molecular, por ejemplo el probar fármacos que pueden cambiar las funciones celulares.
+- Importancia en aplicaciones médicas por su utilización en la ingeniería genética de bacterias, ya que se puede emplear en aplicaciones biomédicas, creando anticuerpos de pequeño tamaño para poder experimentar en la bacteria.
 ## 2. Contexto Clínico
 - La electroporación es una técnica que se utiliza para aumentar la permeabilidad de la membrana celular a iones y moléculas mediante pulsos cortos de altos campos eléctricos. Avances recientes han mostrado aplicaciones terapéuticas de la técnica en el tratamiento clínico contra el cáncer. Incluso la electroporación ha sido utilizada en la estética para mejor la piel facial y corporal.
 - Existen 2 tipos de electroporación, la electroporación reversible y la irreversible:
@@ -83,5 +85,8 @@ Elaborar una cámara de electroporación usando laminas de cobre para conducir e
 11. Masquelier, D. (2018, 22 enero). US20190225928A1 - Automated cell processing methods, modules, instruments, and systems comprising filtration devices - Google Patents. https://patents.google.com/patent/US20190225928A1/en?q=(Automated+cell+processing+methods%2c+modules%2c+instruments%2c+and+systems+filtration+devices)&oq=Automated+cell+processing+methods%2c+modules%2c+instruments%2c+and+systems+comprising+filtration+devices
 12. 眞壁壮. (2019, 14 marzo). WO2020183984A1 - Method for introducing substance into protoplast or alga by electroporation and power supply device for electroporator - Google Patents. https://patents.google.com/patent/WO2020183984A1/en?q=(Electroporator)&after=priority:20180101&oq=(Electroporator)+after:priority:20180101
 13. Toepfl, S. (2018, 31 enero). US20200359659A1 - Method and system for process monitoring the treatment of media, in particular a HACCP-Compliant Method or System for Preserving Foods - Google Patents. https://patents.google.com/patent/US20200359659A1/en?q=(Electroporator)&after=priority:20180101
+14. Electroporación. (s. f.). https://www.quimica.es/enciclopedia/Electroporaci%C3%B3n.html
+15. Cnb, C. (s. f.). Ingeniería de bacterias para aplicaciones biomédicas. https://www.cnb.csic.es/index.php/es/investigacion/departamentos-de-investigacion/biotecnologia-microbiana/ingenieria-de-bacterias-para-aplicaciones-biomedicas
+
 
 
