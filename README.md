@@ -79,5 +79,6 @@ Elaborar una cámara de electroporación usando laminas de cobre para conducir e
 9. Electroporador, Eppendorf Eporator®. (s/f). VWR. Recuperado el 13 de septiembre de 2023, de https://es.vwr.com/store/product/7412315/electroporador-eppendorf-eporator
 10. 0brand. (s/f). ¿Qué es la electroporación? Igeamedical.com. Recuperado el 20 de septiembre de 2023, de https://www.igeamedical.com/es/electroquimioterapia/electroporacion?fbclid=IwAR1W8pThWAYJyMJx7eyIakBdoaC49hG5cOlfqHyrRI5QddlA2Kba60pEgVc
 11. Masquelier, D. (2018, 22 enero). US20190225928A1 - Automated cell processing methods, modules, instruments, and systems comprising filtration devices - Google Patents. https://patents.google.com/patent/US20190225928A1/en?q=(Automated+cell+processing+methods%2c+modules%2c+instruments%2c+and+systems+filtration+devices)&oq=Automated+cell+processing+methods%2c+modules%2c+instruments%2c+and+systems+comprising+filtration+devices
+12. 眞壁壮. (2019, 14 marzo). WO2020183984A1 - Method for introducing substance into protoplast or alga by electroporation and power supply device for electroporator - Google Patents. https://patents.google.com/patent/WO2020183984A1/en?q=(Electroporator)&after=priority:20180101&oq=(Electroporator)+after:priority:20180101
 
 
