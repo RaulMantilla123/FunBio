@@ -66,9 +66,9 @@
 - Operar de manera continua
 - Capacidad de alterar ante complicaciones
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
-- Tener un costo asequible
-- No ocupar mucho espacio
-- Ser adaptable y con disposición a actualizarse 
+- Bajo costo
+- Portátil
+- Adaptable 
 ## Propuesta de solución
 Elaborar una cámara de electroporación usando laminas de cobre para conducir el voltaje, creando así un campo electrico homogeneo que sea lo suficientemente capaz de perturbar su membrana. 
 ## Bibliografía
