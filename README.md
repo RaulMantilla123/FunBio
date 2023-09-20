@@ -31,6 +31,9 @@
 - Unidad 4: Comunicar los resultados
 ## Proyecto 
 - Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes.
+## Análisis del Caso
+# 1.Contexto Social 
+Existen diferentes usos para los electroporadores. En
 ## Problemática del proyecto
 - 
 ## Estado del arte
