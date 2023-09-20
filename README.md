@@ -75,6 +75,7 @@ Elaborar una cámara de electroporación usando laminas de cobre para conducir e
 ## Tabla de valoración
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/2b9b4d8f-eb6c-4679-a9ae-90721d8a040c)
 ## Conclusión
+- El concepto de solucón elegido fue el número 2 al ser más económico, posee una facilidad de esamblaje superior a las otras, existe una mayor disponibilidad de repuestos y la realización del proyecto se ajusta a nuestro alcanze.
 ## Bibliografía
 1. Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
 2. Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
