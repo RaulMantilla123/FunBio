@@ -72,14 +72,14 @@
 ## Propuesta de solución
 Elaborar una cámara de electroporación usando laminas de cobre para conducir el voltaje, creando así un campo electrico homogeneo que sea lo suficientemente capaz de perturbar su membrana. 
 ## Bibliografía
-[1] Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
-[2] Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
-[3] BTX & Trade; Sistema de Electroporación ECM & Trade; 630 completo, con cúpula de seguridad - Electroporadores electroporadores.
-[4] NeonTM NxT electroporation system. (s/f). Thermofisher.com. Recuperado el 13 de septiembre de 2023, de https://www.thermofisher.com/order/catalog/product/NEON1
-[5] Espacenet. (s/f). Espacenet.com. Recuperado el 13 de septiembre de 2023, de https://worldwide.espacenet.com/patent/search/family/035134721/publication/WO2005116203A2?q=pn%3DWO2005116203A2
-[6] Dower, W. J. (1993). Electroporation of prokaryotic cells (Patent Núm. 5186800). En US Patent (Núm. 5186800).
-[7] Gene pulser xcell electroporation systems. (s/f). Bio-Rad Laboratories. Recuperado el 13 de septiembre de 2023, de https://www.bio-rad.com/es-pe/product/gene-pulser-xcell-electroporation-systems?ID=b1a35eb3-d55c-47b3-aaf3-95e4d1d85848
-[8] (S/f). Fishersci.es. Recuperado el 13 de septiembre de 2023, de https://www.fishersci.es/shop/products/ecm-630-exponential-decay-wave-electroporator/15848471
-[9] Electroporador, Eppendorf Eporator®. (s/f). VWR. Recuperado el 13 de septiembre de 2023, de https://es.vwr.com/store/product/7412315/electroporador-eppendorf-eporator
-[10] 0brand. (s/f). ¿Qué es la electroporación? Igeamedical.com. Recuperado el 20 de septiembre de 2023, de https://www.igeamedical.com/es/electroquimioterapia/electroporacion?fbclid=IwAR1W8pThWAYJyMJx7eyIakBdoaC49hG5cOlfqHyrRI5QddlA2Kba60pEgVc
+- [1] Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
+- [2] Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
+- [3] BTX & Trade; Sistema de Electroporación ECM & Trade; 630 completo, con cúpula de seguridad - Electroporadores electroporadores.
+- [4] NeonTM NxT electroporation system. (s/f). Thermofisher.com. Recuperado el 13 de septiembre de 2023, de https://www.thermofisher.com/order/catalog/product/NEON1
+- [5] Espacenet. (s/f). Espacenet.com. Recuperado el 13 de septiembre de 2023, de https://worldwide.espacenet.com/patent/search/family/035134721/publication/WO2005116203A2?q=pn%3DWO2005116203A2
+- [6] Dower, W. J. (1993). Electroporation of prokaryotic cells (Patent Núm. 5186800). En US Patent (Núm. 5186800).
+- [7] Gene pulser xcell electroporation systems. (s/f). Bio-Rad Laboratories. Recuperado el 13 de septiembre de 2023, de https://www.bio-rad.com/es-pe/product/gene-pulser-xcell-electroporation-systems?ID=b1a35eb3-d55c-47b3-aaf3-95e4d1d85848
+- [8] (S/f). Fishersci.es. Recuperado el 13 de septiembre de 2023, de https://www.fishersci.es/shop/products/ecm-630-exponential-decay-wave-electroporator/15848471
+- [9] Electroporador, Eppendorf Eporator®. (s/f). VWR. Recuperado el 13 de septiembre de 2023, de https://es.vwr.com/store/product/7412315/electroporador-eppendorf-eporator
+- [10] 0brand. (s/f). ¿Qué es la electroporación? Igeamedical.com. Recuperado el 20 de septiembre de 2023, de https://www.igeamedical.com/es/electroquimioterapia/electroporacion?fbclid=IwAR1W8pThWAYJyMJx7eyIakBdoaC49hG5cOlfqHyrRI5QddlA2Kba60pEgVc
 
