@@ -1,7 +1,6 @@
  # FunBio (Grupo 7)
 - Repositorio del Grupo 7 del curso de Fundamentos de Biodiseño
 - Tema: Open Hardware
-  
 ## Integrantes
 - Johnny Fabián Cabanillas Bosmediano (Coordinador general)
 - Alessandra de Fátima Salazar Cuya (Coordinadora de modelaje e impresión 3D)
@@ -13,15 +12,6 @@
 - Keren Antonieta Espinoza Huertas
 - Renzo Chan
 - Juan Zuñiga
-## Contenido del repositorio 
-- Integrantes
-- Docentes del curso
-- ¿Qué es Open Hardware?
-- Contenido del curso
-- Problemática del proyecto
-- Estado del Arte
-- Lista de Requerimineto
-- Propuesta de solución
 ## ¿Qué es Open Hardware?
 - Se conoce como aquellos dispositivos de hardware cuyas especificaciones y esquemas son de acceso público, ya sea a través de algún tipo de pago (menor a la original) o gratuito.
 ## Contenido del curso
