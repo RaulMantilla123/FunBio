@@ -29,11 +29,13 @@
 - Unidad 2: Crear conceptos de solución
 - Unidad 3: Desarrollar la solución
 - Unidad 4: Comunicar los resultados
-## Proyecto 
-- Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes. La electroporación es un fenómeno físico que determina la permeabilización de las membranas celulares a través de la aplicación de impulsos eléctricos.
+## Proyecto
+- Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes, las cuales son bacterias diseñadas que tienen membranas celulares altamente permeables para la absorción eficiente de ADN extraño. La electroporación implica la aplicación de pulsos eléctricos a través de la membrana bacteriana, lo que crea poros y permite que el material genético penetre en la membrana.
 # Análisis del Caso
-## 1.Contexto Social 
-Existen diferentes usos para los electroporadores. En
+## 1.Contexto Social
+La electroporación es una técnica que se utiliza para aumentar la permeabilidad de la membrana celular a iones y moléculas mediante pulsos cortos de altos campos eléctricos. Avances recientes han mostrado aplicaciones terapéuticas de la técnica en el tratamiento clínico contra el cáncer. Incluso la electroporación ha sido utilizada en la estética para mejor la piel facial y corporal.
+Existen 2 tipos de electroporación, la electroporación reversible y la irreversible:
+### 1.1. Electroporación reversible  
 ## Problemática del proyecto
 - 
 ## Estado del arte
