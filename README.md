@@ -65,11 +65,17 @@
 - Estética
 - Ligereza
 ## Propuesta de solución
-Elaborar una cámara de electroporación usando laminas de cobre para conducir el voltaje, creando así un campo electrico homogeneo que sea lo suficientemente capaz de perturbar su membrana. 
+- Diseñar un electroporador Open Hardware enfocado en la enseñanza, dirigido por docentes universitarios para que se muestre a sus alumnos la importancia de tener un electroporador, entre sus beneficios está que se puede usar en cursos como la biología sintética, molecular o en carreras como ingeniería genética, entre otros.
 ## Caja Negra 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/c823d1b5-12ce-4ab9-86f1-8e0589a28a59)
 ## Esquema de funciones
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/1db219f6-0de3-4ddb-9622-e1681de317f7)
+- Regular: 
+- Controlar:
+- Amplificar la frecuencia:
+- Aplicar pulso:
+- Almacenar:
+
 ## Matriz morfológica
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/c3bbb953-cdd0-4451-84d0-7e32122948f1)
 ## Tabla de valoración
