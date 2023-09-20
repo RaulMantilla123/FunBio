@@ -30,7 +30,7 @@
 - Unidad 3: Desarrollar la solución
 - Unidad 4: Comunicar los resultados
 ## Proyecto
-- Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes, las cuales son bacterias diseñadas que tienen membranas celulares altamente permeables para la absorción eficiente de ADN extraño. La electroporación implica la aplicación de pulsos eléctricos a través de la membrana bacteriana, lo que crea poros y permite que el material genético penetre en la membrana.
+- Nuestro proyecto será un electroporador, el cual, es un medio rápido y eficaz para la transformación de bacterias. Un electroporador requiere de bacterias electrocompetentes, las cuales son bacterias diseñadas que tienen membranas celulares altamente permeables para la absorción eficiente de ADN extraño. 
 # Análisis del Caso
 ## 1. Contexto Social 
 ## 2. Contexto Clínico
