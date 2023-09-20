@@ -3,10 +3,10 @@
 - Tema: Open Hardware
   
 ## Integrantes
-- Alessandra de Fátima Salazar Cuya
-- Raúl Eduardo Mantilla Cruzado
-- Johnny Fabián Cabanillas Bosmediano
-- Mauricio Gabriel Egoavil Vera
+- Johnny Fabián Cabanillas Bosmediano (Coordinador general)
+- Alessandra de Fátima Salazar Cuya (Coordinadora de modelaje e impresión 3D)
+- Raúl Eduardo Mantilla Cruzado (Gestor del repositorio y GitHub)
+- Mauricio Gabriel Egoavil Veran (Coordinador de progrmación)
 ## Docentes del curso
 - Paulo Camilo Vela Antón
 - Umbert Lewis De la Cruz Rodríguez
@@ -36,9 +36,9 @@
 ## 2. Contexto Clínico
 - La electroporación es una técnica que se utiliza para aumentar la permeabilidad de la membrana celular a iones y moléculas mediante pulsos cortos de altos campos eléctricos. Avances recientes han mostrado aplicaciones terapéuticas de la técnica en el tratamiento clínico contra el cáncer. Incluso la electroporación ha sido utilizada en la estética para mejor la piel facial y corporal.
 - Existen 2 tipos de electroporación, la electroporación reversible y la irreversible:
-### 1.1. Electroporación reversible 
+### 2.1. Electroporación reversible 
 - La electroporación reversible permite introducir en las células moléculas que normalmente no podrían atravesar la membrana celular por sus propiedades (hidrosolubilidad, grandes dimensiones) y facilitar sus funciones. Las aplicaciones clínicas de la electroporación reversible incluyen: Electroquimioterapia, Electroescleroterapia, Electrotransferencia genética.
-### 1.2. Electroporación irreversible 
+### 2.2. Electroporación irreversible 
 - Actúa por medio de la emisión de numerosos impulsos eléctricos de alta tensión que crean nanoporos permanentes en la membrana celular y alteran la homeostasis. La interrupción de la homeostasis celular pone en marcha un proceso apoptósico que conlleva la muerte de la célula. Esta modalidad no prevé la administración de ningún fármaco quimioterapéutico, por lo que los efectos son exclusivamente físicos. Se utiliza principalmente en ámbito oncológico para la ablación de órganos profundos (hígado, páncreas).También ha empezado a utilizarse hace poco para el tratamiento de la fibrilación auricular en estudios clínicos.
 
 ## Problemática del proyecto
