@@ -6,12 +6,13 @@
 - Alessandra de Fátima Salazar Cuya (Coordinadora de modelaje e impresión 3D)
 - Raúl Eduardo Mantilla Cruzado (Gestor del repositorio y GitHub)
 - Mauricio Gabriel Egoavil Veran (Coordinador de progrmación)
-## Docentes del curso
+## Asesores del curso
 - Paulo Camilo Vela Antón
 - Umbert Lewis De la Cruz Rodríguez
 - Keren Antonieta Espinoza Huertas
-- Renzo Chan
-- Juan Zuñiga
+- Renzo Jose Chan Rios
+- Juan Manuel Zuñiga Mamani
+- Piero La Torre
 ## ¿Qué es Open Hardware?
 - Se conoce como aquellos dispositivos de hardware cuyas especificaciones y esquemas son de acceso público, ya sea a través de algún tipo de pago (menor a la original) o gratuito.
 ## Contenido del curso
