@@ -67,12 +67,12 @@
 - Capacidad de alterar ante complicaciones
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 - Tener un costo asequible
-- No ocupe mucho espacio
-- Ser adaptable y con disposicion a actualizarse 
+- No ocupar mucho espacio
+- Ser adaptable y con disposición a actualizarse 
 ## Propuesta de solución
 Elaborar una cámara de electroporación usando laminas de cobre para conducir el voltaje, creando así un campo electrico homogeneo que sea lo suficientemente capaz de perturbar su membrana. 
 ## Bibliografía
-- Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
+[1] Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
 - Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
 - BTX & Trade; Sistema de Electroporación ECM & Trade; 630 completo, con cúpula de seguridad - Electroporadores electroporadores.
 - NeonTM NxT electroporation system. (s/f). Thermofisher.com. Recuperado el 13 de septiembre de 2023, de https://www.thermofisher.com/order/catalog/product/NEON1
