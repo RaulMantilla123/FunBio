@@ -73,8 +73,7 @@
 - Regular: 
 - Controlar:
 - Amplificar la frecuencia:
-- Aplicar pulso:
-- Almacenar:
+- Aplicar energía:
 
 ## Matriz morfológica
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/c3bbb953-cdd0-4451-84d0-7e32122948f1)
