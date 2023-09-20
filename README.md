@@ -57,7 +57,7 @@
 ### Funcionales: ¿Qué debe hacer nuestro proyecto?
 - Generar un campo eléctrico homogéneo
 - Operar de manera continua
-- Capacidad de alterar ante complicaciones
+- Capacidad de automatización
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 - Económico
 - Portátil
