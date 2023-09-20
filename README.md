@@ -72,6 +72,7 @@ Elaborar una cámara de electroporación usando laminas de cobre para conducir e
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/1db219f6-0de3-4ddb-9622-e1681de317f7)
 ## Matriz morfológica
 ## Tabla de valoración
+## Conclusión
 ## Bibliografía
 1. Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
 2. Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
