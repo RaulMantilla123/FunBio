@@ -69,11 +69,12 @@
 ## Caja Negra 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/c823d1b5-12ce-4ab9-86f1-8e0589a28a59)
 ## Esquema de funciones
-![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/1db219f6-0de3-4ddb-9622-e1681de317f7)
-- Regular: 
-- Controlar:
-- Amplificar la frecuencia:
-- Aplicar energía:
+![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/bccb6861-bc36-4158-9b24-31935e821e6e)
+- Regular: Medir la cantidad de energía necesaria para romper la membrana de la bacteria
+- Controlar: Estabilizar la intensidad eléctrica
+- Aplicar energía: Los pulsos aplicados en la bacteria
+- Almacenar: Lugar dónde estará la bacteria
+
 
 ## Matriz morfológica
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/c3bbb953-cdd0-4451-84d0-7e32122948f1)
