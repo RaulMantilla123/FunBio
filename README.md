@@ -4,8 +4,8 @@
 ## Integrantes
 - Johnny Fabián Cabanillas Bosmediano (Coordinador general)
 - Alessandra de Fátima Salazar Cuya (Coordinadora de modelaje e impresión 3D)
-- Raúl Eduardo Mantilla Cruzado (Gestor del repositorio y GitHub)
-- Mauricio Gabriel Egoavil Veran (Coordinador de progrmación)
+- Raúl Eduardo Mantilla Cruzado (Gestor del repositorio GitHub)
+- Mauricio Gabriel Egoavil Veran (Coordinador de programación)
 ## Asesores del curso
 - Paulo Camilo Vela Antón
 - Umbert Lewis De la Cruz Rodríguez
@@ -81,7 +81,7 @@
 ## Tabla de valoración
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/3b3aaf40-ea44-4054-a9af-e2579e622f78)
 ## Conclusión
-- El concepto de solucón elegido fue el número 1 al ser más económico, posee una facilidad de esamblaje superior a las otras, existe una mayor disponibilidad de repuestos y la realización del proyecto se ajusta a nuestro alcanze.
+- El concepto de solución elegido fue el número 1 al ser más económico, posee una facilidad de esamblaje superior a las otras, existe una mayor disponibilidad de repuestos y la realización del proyecto se ajusta a nuestro alcanze.
 ## Bibliografía
 1. Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
 2. Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
