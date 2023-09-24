@@ -78,9 +78,9 @@
 
 
 ## Matriz morfológica
-![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/c3bbb953-cdd0-4451-84d0-7e32122948f1)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/269a49c5-d8ea-48b8-9aff-31ce810b7f4e)
 ## Tabla de valoración
-![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/2b9b4d8f-eb6c-4679-a9ae-90721d8a040c)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/3b3aaf40-ea44-4054-a9af-e2579e622f78)
 ## Conclusión
 - El concepto de solucón elegido fue el número 1 al ser más económico, posee una facilidad de esamblaje superior a las otras, existe una mayor disponibilidad de repuestos y la realización del proyecto se ajusta a nuestro alcanze.
 ## Bibliografía
