@@ -33,7 +33,6 @@
 - La electroporación reversible permite introducir en las células moléculas que normalmente no podrían atravesar la membrana celular por sus propiedades (hidrosolubilidad, grandes dimensiones) y facilitar sus funciones. Las aplicaciones clínicas de la electroporación reversible incluyen: Electroquimioterapia, Electroescleroterapia, Electrotransferencia genética.
 ### 2.2. Electroporación irreversible 
 - Actúa por medio de la emisión de numerosos impulsos eléctricos de alta tensión que crean nanoporos permanentes en la membrana celular y alteran la homeostasis. La interrupción de la homeostasis celular pone en marcha un proceso apoptósico que conlleva la muerte de la célula. Esta modalidad no prevé la administración de ningún fármaco quimioterapéutico, por lo que los efectos son exclusivamente físicos. Se utiliza principalmente en ámbito oncológico para la ablación de órganos profundos (hígado, páncreas).También ha empezado a utilizarse hace poco para el tratamiento de la fibrilación auricular en estudios clínicos.
-
 ## Problemática del proyecto
 - Algunas universidades, mayormente las públicas, no tienen el presupuesto o la disponibilidad para adquirir un electroporador y esto puede llegar a perjudicar a los estudiantes debido a que les puede despertar la duda sobre cómo funciona o cómo es un electroporador y estos no pueden quitarselo porque su universidad no lo tiene.
 ## Estado del arte
