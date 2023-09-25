@@ -1,21 +1,3 @@
-# Análisis del Caso
-## 1. Contexto Social 
+# Análisis del caso
+## 1. Contexto social
 - El electroporador de bacterias fue un avance en las investigaciones científicas debido a que permitió manipular y estudiar el material genético de las bacterias. Esto llevó a un importante avance en la biología molecular, por ejemplo el probar fármacos que pueden cambiar las funciones celulares.
-- Importancia en aplicaciones médicas por su utilización en la ingeniería genética de bacterias, ya que se puede emplear en aplicaciones biomédicas, creando anticuerpos de pequeño tamaño para poder experimentar en la bacteria.
-## 2. Contexto Clínico
-- La electroporación es una técnica que se utiliza para aumentar la permeabilidad de la membrana celular a iones y moléculas mediante pulsos cortos de altos campos eléctricos. Avances recientes han mostrado aplicaciones terapéuticas de la técnica en el tratamiento clínico contra el cáncer. Incluso la electroporación ha sido utilizada en la estética para mejor la piel facial y corporal.
-- Existen 2 tipos de electroporación, la electroporación reversible y la irreversible:
-### 2.1. Electroporación reversible 
-- La electroporación reversible permite introducir en las células moléculas que normalmente no podrían atravesar la membrana celular por sus propiedades (hidrosolubilidad, grandes dimensiones) y facilitar sus funciones. Las aplicaciones clínicas de la electroporación reversible incluyen: Electroquimioterapia, Electroescleroterapia, Electrotransferencia genética.
-### 2.2. Electroporación irreversible 
-- Actúa por medio de la emisión de numerosos impulsos eléctricos de alta tensión que crean nanoporos permanentes en la membrana celular y alteran la homeostasis. La interrupción de la homeostasis celular pone en marcha un proceso apoptósico que conlleva la muerte de la célula. Esta modalidad no prevé la administración de ningún fármaco quimioterapéutico, por lo que los efectos son exclusivamente físicos. Se utiliza principalmente en ámbito oncológico para la ablación de órganos profundos (hígado, páncreas).También ha empezado a utilizarse hace poco para el tratamiento de la fibrilación auricular en estudios clínicos.
-## Problemática del proyecto
-- Algunas universidades, mayormente las públicas, no tienen el presupuesto o la disponibilidad para adquirir un electroporador y esto puede llegar a perjudicar a los estudiantes debido a que les puede despertar la duda sobre cómo funciona o cómo es un electroporador y estos no pueden quitarselo porque su universidad no lo tiene.
-## Estado del arte
-### Productos comerciales
-| Productos | Descripción | Imagen | 
-| ------------- | ------------- |------------- |
-| | |
-| BTX™ Sistema de electroporación ECM™| Electroporador que transforma bacterias, levaduras, microorganismos como transfección de algunos tipos de células de mamíferos mediante un campo eléctrico perturbando sus membranas, incluye una cúpula de seguridad para cubetas. Dimensiones: 33 x 21,6 x 28,6 cm. Peso: 9.79kg. Fabricante: Fisher cientific. Precio:11.835 euros.| ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/93162ae9-6e88-479e-ab6a-fddfefbd09cf) |
-| Gene Pulser Xcell Electroporation Systems | Sistema de electroporación que permite la transfección de cualquier tipo de células incluyendo células T, hasta bacterias y hongos. Compuesto por una unidad principal, dos módulos accesorios, el extensor de capacitancia (módulo CE) y el controlador de pulsos (módulo PC), y una cámara de cubeta ShockPod. Dimensiones: 31 x 30 x 14 cm Peso: 6.6 kg Fabricante: Bio-Rad. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/e6a4eaeb-e546-4a2b-b1da-c9f1eed1c5d9) |
-| Invitrogen™ Neon™ NxT Electroporation System | El sistema de electroporación Neon NxT es una plataforma de electroporación de próxima generación que aprovecha la tecnología de electroporación Neon única y confiable, que aumenta la eficiencia de la transfección y la viabilidad celular. Peso: 5.68kg. Fabricante: Invitrogen™ NEON1. Precio: 9.764 dólares. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/228bdaca-d946-42b7-8012-7d9c1fab72c3) |
