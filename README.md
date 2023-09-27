@@ -103,6 +103,9 @@
 13. Toepfl, S. (2018, 31 enero). US20200359659A1 - Method and system for process monitoring the treatment of media, in particular a HACCP-Compliant Method or System for Preserving Foods - Google Patents. https://patents.google.com/patent/US20200359659A1/en?q=(Electroporator)&after=priority:20180101
 14. Electroporación. (s. f.). https://www.quimica.es/enciclopedia/Electroporaci%C3%B3n.html
 15. Cnb, C. (s. f.). Ingeniería de bacterias para aplicaciones biomédicas. https://www.cnb.csic.es/index.php/es/investigacion/departamentos-de-investigacion/biotecnologia-microbiana/ingenieria-de-bacterias-para-aplicaciones-biomedicas
+16. Byagathvalli, G., Sinha, S., Zhang, Y., Styczynski, M. P., Standeven, J., & Bhamla, M. S. (2020). ElectroPen: An ultra-low–cost, electricity-free, portable electroporator. PLoS Biology, 18(1), e3000589. https://doi.org/10.1371/journal.pbio.3000589
+
+
 
 
 
