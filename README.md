@@ -76,7 +76,7 @@
 
 
 ## Matriz morfológica
-![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/269a49c5-d8ea-48b8-9aff-31ce810b7f4e)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/11736e1c-7783-460f-8c30-4a200453ec6c)
 ## Tabla de valoración
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/3b3aaf40-ea44-4054-a9af-e2579e622f78)
 ## Conclusión
