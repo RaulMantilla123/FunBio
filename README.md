@@ -94,6 +94,8 @@
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/074bd1e0-cb11-4803-b245-f4906d5a2de9)
 ## Matriz de evaluación económica 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/48d99c7e-af61-45ce-8f3d-5ae3438de098)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/f144038d-b08d-407d-b9a8-6e5609f8059b)
+
 ## Bibliografía
 1. Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
 2. Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
