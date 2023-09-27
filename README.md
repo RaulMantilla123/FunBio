@@ -66,7 +66,7 @@
 ## Propuesta de solución
 - Diseñar un electroporador Open Hardware enfocado en la enseñanza, dirigido por docentes universitarios para que se muestre a sus alumnos la importancia de tener un electroporador, entre sus beneficios está que se puede usar en cursos como la biología sintética, molecular o en carreras como ingeniería genética, entre otros.
 ## Caja Negra 
-![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/fc48c918-f3c7-4772-982e-48551eacf04d)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/b3374d83-6534-4e46-85ea-33b333f6ffa1)
 ## Esquema de funciones
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/58068151-66fe-47f2-b966-7577e319ace1)
 - Regular: Medir la cantidad de energía necesaria para romper la membrana de la bacteria
