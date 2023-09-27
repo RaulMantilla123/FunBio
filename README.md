@@ -87,6 +87,13 @@
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/3b3aaf40-ea44-4054-a9af-e2579e622f78)
 ## Conclusión
 - El concepto de solución elegido fue el número 1 al ser más económico, posee una facilidad de esamblaje superior a las otras, existe una mayor disponibilidad de repuestos y la realización del proyecto se ajusta a nuestro alcanze.
+## Bocetos 
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/a7cc296a-fcbd-4732-b6b6-5499a54ba982)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/f0491a4f-7ea9-458a-abbe-0b939ce77697)
+## Matriz de evaluación técnica
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/074bd1e0-cb11-4803-b245-f4906d5a2de9)
+## Matriz de evaluación económica 
+![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/48d99c7e-af61-45ce-8f3d-5ae3438de098)
 ## Bibliografía
 1. Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
 2. Tejo Sánchez, S. (2020). Programación de laboratorios de biología portátiles abiertos basados en Arduino con el lenguaje de programación visual XOD.
