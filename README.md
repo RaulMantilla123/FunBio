@@ -42,6 +42,7 @@
 Podemos concluir a partir de estos tres gráficos que en el Perú existe poco presupuesto equipos destinados a equipos de investigación, donde respecto a universidaes, las universidades públicas fueron las de menor inversión en capital. Además las universidades de Lima tienen mayor prepuesto comparadas a las universidades del resto de departamentos.
 ## Problemática del proyecto
 - Algunas universidades, mayormente las públicas, no tienen el presupuesto o la disponibilidad para adquirir un electroporador y esto puede llegar a perjudicar a los estudiantes debido a que les puede despertar la duda sobre cómo funciona o cómo es un electroporador y estos no pueden quitarselo porque su universidad no lo tiene.
+- 
 ## Estado del arte
 ### Productos comerciales
 | Productos | Descripción | Imagen | 
