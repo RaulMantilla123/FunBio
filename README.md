@@ -6,7 +6,7 @@
 - Alessandra de Fátima Salazar Cuya (Coordinadora de modelaje e impresión 3D)
 - Raúl Eduardo Mantilla Cruzado (Gestor del repositorio GitHub)
 - Mauricio Gabriel Egoavil Veran (Coordinador de programación)
-- <img width= "400" heigth= "600" src=https://github.com/RaulMantilla123/FunBio/assets/143019190/f5599928-b3d8-4c64-959f-31c6dcf691f49>
+- <img width= "450" heigth= "600" src=https://github.com/RaulMantilla123/FunBio/assets/143019190/f5599928-b3d8-4c64-959f-31c6dcf691f49>
 ## Asesores del curso
 - Paulo Camilo Vela Antón
 - Umbert Lewis De la Cruz Rodríguez
