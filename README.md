@@ -75,7 +75,7 @@ Podemos concluir a partir de estos tres gráficos que en el Perú existe poco pr
 ## Caja Negra 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/b3374d83-6534-4e46-85ea-33b333f6ffa1)
 ## Esquema de funciones
-<img width= "140" heigth= "200" scr=https://github.com/RaulMantilla123/FunBio/assets/143019190/58068151-66fe-47f2-b966-7577e319ace1>
+<img width= "140" heigth= "200" src=https://github.com/RaulMantilla123/FunBio/assets/143019190/58068151-66fe-47f2-b966-7577e319ace1>
 - Regular: Medir la cantidad de energía necesaria para romper la membrana de la bacteria
 - Conducción: Medio por dónde se transportará la electricidad
 - Aplicar energía: Los pulsos aplicados en la bacteria
