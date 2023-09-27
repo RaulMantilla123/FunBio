@@ -36,9 +36,9 @@
 ## 3. Definición del problema 
 - En el Perú, según el Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC), existe deficiencia en el área de Investigación y Desarrollo en las universidades en comparación a otros países.
 - En el 2016 se realizó un censo, donde se evaluaron el presupuesto que tenían las universidades de todo el Perú, tanto privadas como públicas, para equipos de investigación. Los resultados fueron:
-<img width= "400" heigth= "400" src=https://github.com/RaulMantilla123/FunBio/assets/143019190/4a2e1650-a02e-428e-abe8-d86bf143d0a9>
+<img width= "550" heigth= "600" src=https://github.com/RaulMantilla123/FunBio/assets/143019190/4a2e1650-a02e-428e-abe8-d86bf143d0a9>
 - Los gastos en equipos de Investigación y Desarrollo en las universidades por cada departamentos del Perú fueron:
-<img width= "400" heigth= "400" src=https://github.com/RaulMantilla123/FunBio/assets/143019190/93b0e0d6-8a5e-499e-8fcf-8809a0499f72>
+<img width= "550" heigth= "600" src=https://github.com/RaulMantilla123/FunBio/assets/143019190/93b0e0d6-8a5e-499e-8fcf-8809a0499f72>
 Podemos concluir a partir de estos tres gráficos que en el Perú existe poco presupuesto equipos destinados a equipos de investigación, donde respecto a universidaes, las universidades públicas fueron las de menor inversión en capital. Además las universidades de Lima tienen mayor prepuesto comparadas a las universidades del resto de departamentos.
 ## Problemática del proyecto
 - Algunas universidades, mayormente las públicas, no tienen el presupuesto o la disponibilidad para adquirir un electroporador y esto puede llegar a perjudicar a los estudiantes debido a que les puede despertar la duda sobre cómo funciona o cómo es un electroporador y estos no pueden quitarselo porque su universidad no lo tiene.
