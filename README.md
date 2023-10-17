@@ -76,7 +76,7 @@
 ## Caja Negra 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/b3374d83-6534-4e46-85ea-33b333f6ffa1)
 ## Esquema de funciones
-![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/00e229de-8ebd-48e1-a01c-6593d8053cb0)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/0d30eef2-f1a6-4614-bb34-404a74200a84)
 
 
 - Regular: Medir la cantidad de energía necesaria para romper la membrana de la bacteria
