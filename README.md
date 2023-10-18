@@ -83,6 +83,7 @@
 - Conducción: Medio por dónde se transportará la electricidad
 - Aplicar energía: Los pulsos aplicados en la bacteria
 - Almacenar: Lugar dónde estará la bacteria
+- Verificar: Comprobar si el pulso transcurre correctamente 
 ## Matriz morfológica
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/b3aace16-6217-42e5-bac5-a46fb8eef267)
 ## Tabla de valoración
