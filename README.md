@@ -115,6 +115,11 @@
 14. Electroporación. (s. f.). https://www.quimica.es/enciclopedia/Electroporaci%C3%B3n.html
 15. Cnb, C. (s. f.). Ingeniería de bacterias para aplicaciones biomédicas. https://www.cnb.csic.es/index.php/es/investigacion/departamentos-de-investigacion/biotecnologia-microbiana/ingenieria-de-bacterias-para-aplicaciones-biomedicas
 16. Byagathvalli, G., Sinha, S., Zhang, Y., Styczynski, M. P., Standeven, J., & Bhamla, M. S. (2020). ElectroPen: An ultra-low–cost, electricity-free, portable electroporator. PLoS Biology, 18(1), e3000589. https://doi.org/10.1371/journal.pbio.3000589
+17. Tutorial pantalla TFT táctil con Arduino. (s/f). Naylamp Mechatronics - Perú. Recuperado el 18 de octubre de 2023, de https://naylampmechatronics.com/blog/26_tutorial-pantalla-tft-tactil-con-arduino.html
+18. Pantalla Lcd Arduino. (s/f). Com.pe. Recuperado el 18 de octubre de 2023, de https://listado.mercadolibre.com.pe/pantalla-lcd-arduino
+19. MODULO ARDUINO NANO CON CABLE. (s/f). Mastertronicventas.com. Recuperado el 18 de octubre de 2023, de https://mastertronicventas.com/index.php/producto/modulo-arduino-nano-con-cable/
+
+
 
 
 
