@@ -97,6 +97,10 @@
 ## Matriz de evaluación económica 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/48d99c7e-af61-45ce-8f3d-5ae3438de098)
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/f144038d-b08d-407d-b9a8-6e5609f8059b)
+## Esquema electrónico
+![image](https://github.com/RaulMantilla123/FunBio/assets/143365951/49c2875c-74e6-4a9f-9991-881af13b9757)
+## Modelado 3D 
+
 
 ## Bibliografía
 1. Mendoza Gallegos, R. A. (2017). Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería (Master's thesis, Tesis (MC)--Centro de Investigación y de Estudios Avanzados del IPN Unidad Monterrey).
