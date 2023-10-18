@@ -84,9 +84,9 @@
 - Aplicar energía: Los pulsos aplicados en la bacteria
 - Almacenar: Lugar dónde estará la bacteria
 ## Matriz morfológica
-![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/11736e1c-7783-460f-8c30-4a200453ec6c)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/7c237b62-67cf-413d-a146-e697ac5d7965)
 ## Tabla de valoración
-![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/3b3aaf40-ea44-4054-a9af-e2579e622f78)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/de850313-ef85-4089-a0b5-0e64dd0e2491)
 ## Conclusión
 - El concepto de solución elegido fue el número 1 al ser más económico, posee una facilidad de esamblaje superior a las otras, existe una mayor disponibilidad de repuestos y la realización del proyecto se ajusta a nuestro alcanze.
 ## Bocetos 
