@@ -84,7 +84,7 @@
 - Aplicar energía: Los pulsos aplicados en la bacteria
 - Almacenar: Lugar dónde estará la bacteria
 ## Matriz morfológica
-![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/cf95c28a-f3b6-4905-8b57-cab5e77a3992)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/9d0607fd-8929-40ed-83c2-88cd8a3cbd32)
 ## Tabla de valoración
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/de850313-ef85-4089-a0b5-0e64dd0e2491)
 ## Conclusión
