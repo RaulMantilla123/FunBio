@@ -93,7 +93,8 @@
 ## Bocetos 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/c10231c7-f279-4849-a19c-68e5dfb13080)
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/21d73b58-3f88-4acc-a3fc-85fde6097f11)
-![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/f8aa6137-97b7-45d7-a0b3-b05d283046c0)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/6aa34c27-7c6a-4248-a8f7-e49a62886fd3)
+
 
 ## Matriz de evaluación técnica
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/074bd1e0-cb11-4803-b245-f4906d5a2de9)
