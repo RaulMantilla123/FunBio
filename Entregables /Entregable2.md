@@ -1,3 +1,28 @@
-# Análisis del Caso
-## 1. Contexto Social 
-dbs
+# Entregable 2
+### Estado del arte
+### Productos comerciales
+| Productos | Descripción | Imagen | 
+| ------------- | ------------- |------------- |
+| | |
+| BTX™ Sistema de electroporación ECM™| Electroporador que transforma bacterias, levaduras, microorganismos como transfección de algunos tipos de células de mamíferos mediante un campo eléctrico perturbando sus membranas, incluye una cúpula de seguridad para cubetas. Dimensiones: 33 x 21,6 x 28,6 cm. Peso: 9.79kg. Fabricante: Fisher cientific. Precio:11.835 euros.| ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/93162ae9-6e88-479e-ab6a-fddfefbd09cf) |
+| Gene Pulser Xcell Electroporation Systems | Sistema de electroporación que permite la transfección de cualquier tipo de células incluyendo células T, hasta bacterias y hongos. Compuesto por una unidad principal, dos módulos accesorios, el extensor de capacitancia (módulo CE) y el controlador de pulsos (módulo PC), y una cámara de cubeta ShockPod. Dimensiones: 31 x 30 x 14 cm Peso: 6.6 kg Fabricante: Bio-Rad. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/e6a4eaeb-e546-4a2b-b1da-c9f1eed1c5d9) |
+| Invitrogen™ Neon™ NxT Electroporation System | El sistema de electroporación Neon NxT es una plataforma de electroporación de próxima generación que aprovecha la tecnología de electroporación Neon única y confiable, que aumenta la eficiencia de la transfección y la viabilidad celular. Peso: 5.68kg. Fabricante: Invitrogen™ NEON1. Precio: 9.764 dólares. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/228bdaca-d946-42b7-8012-7d9c1fab72c3) |
+### Patentes 
+| Productos | Descripción | Imagen |
+| ------------- | ------------- | ------------- |
+|ElectroPen: un electroporador portátil ultra bajo – costoElectroPen: un electroporador portátil ultra bajo – costo| Electroporador simple, económico y portátil inspirado y derivado de un encendedor de estufa piezoeléctrico doméstico común. El dispositivo "ElectroPen" propuesto puede costar tan solo 23 centavos de dólar para fabricar, es portátil ( pesa 13 g y no requiere electricidad ), se puede fabricar fácilmente con impresión 3D, y entrega pulsos repetibles de descomposición exponencial de aproximadamente 2,000 V en 5 ms mostrando una eficiencia de transformación comparable a los dispositivos comerciales pero con un costo reducido. País de procedencia: Estados Unidos. Año de publicación: 2019 | ![image](https://github.com/RaulMantilla123/FunBio/assets/143365951/39f34ed1-3018-4cf5-9a6f-14ca4583a2b6)|
+| US20200359659A1 - Method And System For Process Monitoring The Treatment Of Media, In Particular A HACCP-Compliant Method Or System For Preserving Foods|Esta patente presenta un sistema compatible con HACCP (sistema que identifica peligros y los controla para garantizar la inocuidad alimentaria) para el monitoreo del proceso de preservación de alimentos con el objetivo de garantizar y estandarizar un tratamiento exitoso. El sistema en cuestión posee un electroporador, ya que este dispositivo puede tratar con un campo eléctrico, también deberá haber por lo menos un dispositivo de medición para determinar si existe un cambio en el parámetro de condición del medio, el cual es causado por el tratamiento con el campo eléctrico, y un dispositivo de evaluación para comparar el cambio determinado en el parámetro con un valor objetivo y así emitir una señal de advertencia una vez que la diferencia entre el cambio determinado y el valor objetivo excedan un valor límite. Para que la electroporación tenga éxito, se necesita diversos parámetros como la intensidad, número de pulsos, entre otros más, lo cual ocasiona que los parámetros sean seleccionados y optimizados para cada caso que exista, es decir, los parámetros son únicos. Por lo que legimos esta patente debido a que proporciona un método y un sistema para monitorar el proceso de tratamiento de los alimentos(vida útil) que se pueda estandarizar y garantice de manera confiable un tratamiento exitoso. País de procedencia: Estados Unidos. Año de publicación: 2018. | ![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/ffe83357-6e78-4d55-8a37-96527bf43005)| 
+| Un electroporador de bajo costo para modificar genéticamente la ameba social Dictyostelium discoideum | Un electroporador capaz de transformación de alta eficiencia. Consta de una fuente de alimentación de alto voltaje, circuito generador de pulso y cámara de cubeta de muestra celular. La fuente de alimentación está programada para suministrar el voltaje deseado, que cuando se activa mediante un interruptor de doble polo y tiro. El circuito de alto voltaje está alojado en una carcasa con aislamiento eléctrico: una caja de conexiones eléctrica de plástico con agujeros apropiados para el montaje del interruptor y pasar los cables. Presenta un económico multímetro digital de 1,000 voltios en el diseño para ayudar en el desarrollo y las pruebas. Para proporcionar un monitoreo manos libres del voltaje del condensador en tiempo real, se conectó cables de prueba multímetro a los postes del condensador. País de procedencia: Estados Unidos. Año de publicación: 2020. |![image](https://github.com/RaulMantilla123/FunBio/assets/143365951/9e769b66-880d-4378-9c2e-f8092188fa43) |
+### Lista de requirimientos
+### Funcionales: ¿Qué debe hacer nuestro proyecto?
+- Generar un campo eléctrico homogéneo
+- Operar de manera continua
+- Capacidad de automatización
+### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
+- Económico
+- Portátil
+- Adaptable
+- Estética
+- Ligereza
+## Propuesta de solución
+- Diseñar un electroporador Open Hardware enfocado en la enseñanza, dirigido por docentes universitarios para que se muestre a sus alumnos la importancia de tener un electroporador, entre sus beneficios está que se puede usar en cursos como la biología sintética, molecular o en carreras como ingeniería genética, entre otros.
