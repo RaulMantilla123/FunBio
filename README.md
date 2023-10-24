@@ -99,7 +99,7 @@
 ## Matriz de evaluación técnica
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/2bad6df7-6163-4ce8-9d4f-99a5f2acbe4b)
 ## Matriz de evaluación económica 
-![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/42fd20e5-172c-4fa9-a6bd-ee70800ff96c)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/86b79c11-9e2f-4b22-ad2a-010d3b05da1f)
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/f144038d-b08d-407d-b9a8-6e5609f8059b)
 ## Esquema electrónico
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143365951/49c2875c-74e6-4a9f-9991-881af13b9757)
