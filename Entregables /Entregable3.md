@@ -13,6 +13,7 @@
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/e8e94bd5-dc4f-4237-9e03-01a56bc684ba)
 ## Conclusión
 - El concepto de solución que hemos elegido fue el número 1 debido a que es el más factible por los siguientes motivos:
+
     •Mayor durabilidad.
     
     •Fácil ensamblaje.
