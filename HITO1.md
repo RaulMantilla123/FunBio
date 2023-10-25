@@ -1,6 +1,7 @@
 # HITO 1
 ## Modelado 3D
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/632a6176-39ae-4bb3-b38f-70bdc88768b5)
+https://skfb.ly/oMKRO
 ### Vista explosionada
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/05b26511-23ae-46a4-a5d7-03d08a036e39)
 ## Parametros de Impresión
