@@ -8,3 +8,5 @@ ENTREGABLE 4
 ## Matriz de evaluación económica 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/86b79c11-9e2f-4b22-ad2a-010d3b05da1f)
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/f144038d-b08d-407d-b9a8-6e5609f8059b)
+## Proyecto óptimo 
+![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/a5c04f7e-a695-4c72-8beb-2b4258d17027)
