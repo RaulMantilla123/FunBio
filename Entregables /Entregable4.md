@@ -1,7 +1,7 @@
 ENTREGABLE 4
 ## Bocetos 
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/c10231c7-f279-4849-a19c-68e5dfb13080)
-![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/8056fd73-0bde-48ac-909e-768e949033b4)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/bad9fd39-3ffb-43e0-8ef6-9834391c35c2)
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/6aa34c27-7c6a-4248-a8f7-e49a62886fd3)
 ## Matriz de evaluación técnica
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/2bad6df7-6163-4ce8-9d4f-99a5f2acbe4b)
