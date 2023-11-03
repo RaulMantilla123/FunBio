@@ -1,4 +1,5 @@
 ## Diagrama de flujo
+![image](https://github.com/RaulMantilla123/FunBio/assets/143365951/744aad78-35e3-4569-8179-2a4e67fc4d7f)
 
 ## Fotos del prototipo
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143365951/6ca1b3c6-f333-493c-a307-70064e44698d)
