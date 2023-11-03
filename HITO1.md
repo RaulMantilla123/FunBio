@@ -13,6 +13,6 @@ https://skfb.ly/oMKRO
 ## DISEÑO ESQUEMÁTICO DE CIRCUITO
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/2650857b-17ce-4f6c-94e9-92d8b2a9d36c)
 ## Prototipo Electrónico
-![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/919c21c4-1b6c-487b-a148-732a6c8cd99d)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143365951/17d23216-3bbc-46f2-a7d9-4cd1793173b6)
 ## Presentación
 https://www.canva.com/design/DAFyIp6mkF0/jScXyDRe41riTm5CaJv-AQ/edit
