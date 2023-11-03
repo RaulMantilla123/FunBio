@@ -8,7 +8,7 @@
 - Almacenar: Lugar dónde estará la bacteria
 - Verificar: Comprobar si el pulso transcurre correctamente 
 ## Matriz morfológica
-![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/435e35ec-1fed-4498-95f6-6afaaa45d346)
+![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/5f619632-d5e3-48f3-8f3a-2f9dd6f3e7d3)
 ## Tabla de valoración
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143366394/e8e94bd5-dc4f-4237-9e03-01a56bc684ba)
 ## Conclusión
