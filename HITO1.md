@@ -1,6 +1,10 @@
 # HITO 1
 ## Modelado 3D
-![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/632a6176-39ae-4bb3-b38f-70bdc88768b5)
+# Tapa
+![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/21007278-7686-4ab4-9e5b-c2094e87493a)
+# Base
+![image](https://github.com/RaulMantilla123/FunBio/assets/143033138/f1920df4-c31c-4fe1-8dc2-a9a7f8952919)
+
 https://skfb.ly/oMKRO
 ### Vista explosionada
 ![image](https://github.com/RaulMantilla123/FunBio/assets/143019190/05b26511-23ae-46a4-a5d7-03d08a036e39)
