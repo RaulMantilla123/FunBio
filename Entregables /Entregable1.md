@@ -16,5 +16,7 @@
 - Los gastos en equipos de Investigación y Desarrollo en las universidades por cada departamentos del Perú fueron:
 - <img width= "400" heigth= "600" src=https://github.com/RaulMantilla123/FunBio/assets/143019190/93b0e0d6-8a5e-499e-8fcf-8809a0499f72>
 - Podemos concluir a partir de estos tres gráficos que en el Perú existe poco presupuesto equipos destinados a equipos de investigación, donde respecto a universidaes, las universidades públicas fueron las de menor inversión en capital. Además las universidades de Lima tienen mayor prepuesto comparadas a las universidades del resto de departamentos.
+## ¿Por qué es importante un electroporador de bacterias?
+Un electroporador de bacterias es crucial en la investigación y la biotecnología porque ayudan a introducir material genético en las bacterias de manera eficiente. Esto es fundamental para la investigación genética, cursos de ingeniería genética que se enseñan en la universidad y la modificación genética de microorganismos, ya que permite a los científicos manipular genes para comprender la biología y desarrollar aplicaciones prácticas.
 ## Problemática del proyecto
 - Algunas universidades, mayormente las públicas, no tienen el presupuesto o la disponibilidad para adquirir un electroporador y esto puede llegar a perjudicar a los estudiantes debido a que les puede despertar la duda sobre cómo funciona o cómo es un electroporador y estos no pueden quitarselo porque su universidad no lo tiene.
